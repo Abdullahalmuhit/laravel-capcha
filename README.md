@@ -1,4 +1,4 @@
-Site:
+### Site:
 https://github.com/anhskohbo/no-captcha
-Package: 
+### Package: 
 composer require anhskohbo/no-captcha
